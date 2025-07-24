@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nesta Mwangi</h1>
 <h3 align="center">Web Developer,Algorithmic Trader,Indicator Developer</h3>
 
-- 👨‍💻 All of my projects are available at [https://portf0li0.vercel.app/](https://portf0li0.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://finalport-gold.vercel.app//](https://finalport-gold.vercel.app/)
 
 - 📫 How to reach me **nestaamwangi@gmail.com**
 
